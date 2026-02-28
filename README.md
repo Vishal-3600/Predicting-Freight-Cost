@@ -1,9 +1,31 @@
-**Objective**
+**Vendor Invoice Intelligence System**
 
-1.Predict expected freight cost before payment.
+A complete end-to-end ML system using Python, SQL, Scikit-learn & Streamlit
 
-2.Flag risky invoices (overbilling, fraud, duplicate, abnormal charges).
+**1️⃣ Problem Statement**
 
-3.Reduce manual audit effort.
+Organizations process thousands of vendor invoices monthly. Manual verification leads to:
 
-4.Improve financial control.
+Duplicate payments
+
+Fraud risk
+
+Incorrect vendor classification
+
+Delayed processing
+
+Human errors
+
+**The goal is to build an intelligent system that can:**
+
+Classify invoices (expense category, department, vendor type)
+
+Detect anomalies or fraud
+
+Predict approval likelihood
+
+Extract structured data
+
+Provide real-time predictions via UI
+
+ 
